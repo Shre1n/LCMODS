@@ -1,7 +1,7 @@
 {
   "name": "random",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/Shre1n/LCMODS",
+  "website_url": "https://github.com/thunderstore-io",
   "description": "Mods for playing Company on demand.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
