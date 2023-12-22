@@ -3,6 +3,8 @@ import json
 # Name der Datei, die die Mod-Liste enthält
 datei_pfad = "Overview_Names.txt"
 
+#working
+
 # Liste von Mod-Namen aus der Datei einlesen
 with open(datei_pfad, 'r') as file:
     mod_list = [line.strip() for line in file]
